@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  #q1 {
+    width: 600px;
+    height: 700px;
+  }
+  #nav1 {
+    padding: 20px;
+  }
+  
+  .cards {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+  }
+  #y1 {
+    width: 290px;
+    height: 260px;
+  }
+  #p1 {
+    margin-top: 50px;
+    text-align: center;
+    background-color: black;
+    color: antiquewhite;
+    padding: 20px;
+  }
+  #t1 {
+    width: 40px;
+    height: 40px;
+    justify-content: space-between;
+  }
